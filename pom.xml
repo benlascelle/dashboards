@@ -10,7 +10,7 @@
   <artifactId>jacoco-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
- <name>jacoco-example</name>
+ <name>coverage action test</name>
 
 
   <properties>
