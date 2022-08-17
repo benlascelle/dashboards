@@ -14,7 +14,7 @@ jobs:
           java-version: 1.8
       - name: Run Coverage
         run: |
-          ./mvnw test
+          ./mvn test
 
       - name: Add coverage to PR
         id: jacoco
